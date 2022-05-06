@@ -1,0 +1,27 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 80vh;
+}
+
+.table__content {
+  padding: 50px 0;
+  border-collapse: collapse;
+}
+
+.table__item {
+  text-align: center;
+}
+
+.table__title, .table__text {
+  border: 1px solid black;
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
